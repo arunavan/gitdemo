@@ -1,0 +1,45 @@
+101,box,90,890
+102,table,20,1000
+103,bag,50,200
+
+Angular 12 abd above:
+==========================
+MongoDB, AWS Services (Amplify, DynamoDB, Cognito, Lambda),
+ Nodejs, Express, Angular, Responsive Frameworks like
+ Bootstrap, CSS/SCSS/SASS & HTML
+
+Understanding REST vs GRAPHQL,mutations,queries,subscriptions.
+
+CRUD to DynamoDB using GrpahQL via APlify application
+
+
+Writing GraphQL APIs to perform CRUD operations with AWS 
+DynamoDB
+Understanding Continuous Integration and Deployments. 
+(Preferrably understanding the Jenkins pipeline)
+
+Mutations, Queries, Sbuscription
+CRUD to AWS DynamoDB using GraphQL- with relationships, agregations
+
+RDS - MySQL and Sequelize for migrations
+Why do we need Sequelize for RDS?
+
+git commands-version management
+npm
+Angular 12 and above
+ng serve
+minification
+prod build
+Caching - Redis
+Microservices -implementation- architecture, scaleit 
+
+deliverables  -CRUD application
+               Workorder list,search,pagination,
+
+NOSQL/RDBMS
+Normalization-- high performance applications.
+REusability
+modularity
+
+
+--
